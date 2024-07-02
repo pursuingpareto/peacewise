@@ -69,3 +69,20 @@ The peace mechanic is built on top of the features listed above and allows for t
 >  "If 50% of my coworkers agree to  go on strike tomorrow, then I will go on strike tomorrow".
 
 > "If 75% of the soldiers in my platoon agree to put down their weapons and go home tomorrow, I will do the same".
+
+# Structure
+This repository--like the universe we are building--strives for self-similarity. And this community--like the communities that will populate our universe--is learning to use [non-violent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) to meet our needs.
+
+Where appropriate, at each level of the directory hierarchy you will find the same four files (or *directories* if more structure is needed).
+
+#### `observations`
+A place to share concrete observations related to this directory and (potentially) any/all child directories.
+
+#### `feelings`
+A place to share feelings and discussion. What about this directory / descendents excites you? What makes you nervous? 
+
+#### `needs`
+A place to understand the unmet needs of the contents of this directory.
+
+#### `requests`
+A list of concrete proposals / feature-requests for addressing unmet needs.
